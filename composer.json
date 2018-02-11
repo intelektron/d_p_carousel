@@ -1,0 +1,12 @@
+{
+    "name": "intelektron/d_p_carousel",
+    "description": "Paragraph containing Slick carousel.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Grzegorz Pietrzak",
+            "role": "developer"
+        }
+    ]
+}
