@@ -1,6 +1,12 @@
 # Slick paragraph for Droopler #
 [![N|Solid](http://intelektron.pl/logo.svg)](http://intelektron.pl)
 
+## How does it look? ##
+
+[![N|Solid](http://intelektron.pl/static/intelektron-slick-1.png)](http://intelektron.pl/static/intelektron-slick-1.png)
+
+[![N|Solid](http://intelektron.pl/static/intelektron-slick-2.png)](http://intelektron.pl/static/intelektron-slick-2.png)
+
 ## Installation ##
 
 1. Update **composer.json**
